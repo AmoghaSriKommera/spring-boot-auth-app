@@ -1,0 +1,1 @@
+Spring Boot App (Thymeleaf + H2) - Run with: mvn spring-boot:run
